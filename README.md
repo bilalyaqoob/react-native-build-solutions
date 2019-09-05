@@ -1,4 +1,4 @@
-# react-native-build-solutions
+# react-native-error-solutions
 
 ===========================================================================
                    .apk Build error
